@@ -1,0 +1,13 @@
+.horizontal-container {
+    display: flex;
+    /* Optional: Align items vertically in the center */
+    align-items: center;
+    /* Optional: Space between items */
+    gap: 10px;
+}
+
+.item {
+    /* Optional: Add some styling to items */
+    padding: 10px;
+    background-color: lightgray;
+}
